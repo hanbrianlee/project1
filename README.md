@@ -1,4 +1,4 @@
-# Deep Learning Architect / Engineer
+# Deep Learning Architect / Engineer - Project 1
 
 ## Education
 - Masters in Computer Science - Machine Learning and Computational Photography and Robotics | Georgia Institute of Technology
